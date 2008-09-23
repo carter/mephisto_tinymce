@@ -6,4 +6,4 @@ This plugin turns the textarea fields on Mephisto's article edit pages into a ri
 
 To install this plugin, just like a regular Rails plugin:
 
-script/plugin install git@github.com:carter/mephisto_tinymce.git
+script/plugin install git://github.com/carter/mephisto_tinymce.git
