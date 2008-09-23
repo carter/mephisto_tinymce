@@ -1,0 +1,9 @@
+Mephisto TinyMCE Plugin
+by: Carter Parks (carter@carterparks.com)
+=========================================
+
+This plugin turns the textarea fields on Mephisto's article edit pages into a rich text editor powered by TinyMCE (http://tinymce.moxiecode.com/)
+
+To install this plugin, just like a regular Rails plugin:
+
+script/plugin install git@github.com:carter/mephisto_tinymce.git
